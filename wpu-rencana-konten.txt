@@ -1,5 +1,7 @@
 Rencana konten wpu
 
 -video mengenai javascript
+  * ES6
+  * React
 -php framework
 - interview
